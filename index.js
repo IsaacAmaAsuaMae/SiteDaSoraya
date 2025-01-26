@@ -1,7 +1,7 @@
 function mostrar() {
       document.getElementById("texto").style.display = "block";
       document.getElementById("botao").style.display = "none";
-      document.getElementById("foto").style.display = "block";
+      document.getElementById("foto").style.display = "round";
     }
 
     function lembrete() {
