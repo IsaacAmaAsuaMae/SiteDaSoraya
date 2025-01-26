@@ -1,5 +1,5 @@
 body{
-      background-image: fundo.jpg;
+      background-image: url(fundo.jpg);
       text-align: center;
     }
     .imagem{
