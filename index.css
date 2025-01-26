@@ -1,17 +1,16 @@
-html{
-    height: 100%;
+html, body {
+    height: 100%; 
     margin: 0;
 }
 body {
-    height: 100%;
-    margin: 0;
     background-image: url('https://raw.githubusercontent.com/isaacamaasuamae/SiteDaSoraya/main/fundo.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
-      text-align: center;
-    }
+    text-align: center;
+    min-height: 100%;
+}
     .imagem{
       display: block;
       margin-left: auto;
