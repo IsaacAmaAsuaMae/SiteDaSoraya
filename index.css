@@ -3,7 +3,7 @@ html, body {
     margin: 0;
 }
 body {
-    background-image: url('https://raw.githubusercontent.com/isaacamaasuamae/SiteDaSoraya/main/fundo.jpg');
+    background-image: url('/SiteDaSoraya/fundo.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
