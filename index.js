@@ -2,6 +2,7 @@ function mostrar() {
       document.getElementById("texto").style.display = "block";
       document.getElementById("botao").style.display = "none";
       document.getElementById("foto").style.display = "block";
+      document.getElementById("paragrafo").style.display = "none";
     }
 
     function lembrete() {
