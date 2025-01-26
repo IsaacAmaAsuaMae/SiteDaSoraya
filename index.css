@@ -1,6 +1,7 @@
 html, body {
     height: 100%; 
     margin: 0;
+    overflow: hidden;
 }
 body {
     background-image: url('/SiteDaSoraya/fundo.jpg');
