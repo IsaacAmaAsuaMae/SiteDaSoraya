@@ -8,4 +8,4 @@ function mostrar() {
       alert("Lembre-se, eu te amo! E você é a melhor mãe do mundo.");
     }
 
-    setInterval(lembrete, 10000);
+    setInterval(lembrete, 30000);
